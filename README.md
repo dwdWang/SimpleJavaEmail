@@ -13,7 +13,7 @@
 
 - **开发语言**：Java
     
-- **开发工具**：IntelliJ IDEA Community Edition 2024.3.1.1（集成 Maven 作为项目构建工具）
+- **开发工具**：IntelliJ IDEA Community Edition 2024.3.1.1（集成 Maven 作为项目构建工具，如果你的电脑上无法正常运行JavaMail，可以学一下Maven依赖的相关配置，一般用命令行重装一下依赖就行）
     
 - **邮件协议**：SMTP（邮件发送）、IMAP（邮件管理）、POP3（邮件接收）
 
